@@ -1,0 +1,211 @@
+<html>
+<head>
+        <style name="profile">
+                fieldset {
+                  background-color: #e1ffe1;
+                }
+                </style>
+<title>Ashik</title>
+<body bgcolor="WhiteSmoke">
+           <!-- <h1 align ="Center"><FONT COLOR="DarkSlateBlue"><U>Ashik BL Ebenez</FONT></U></h1>
+            <h4 align ="center">Sr product support & business analyst - with more than three years of experience in progressive roles supporting, implementing, and training freight forwarding ERP software</h4>
+           -->   
+        <table>
+                <table border="0px"cellpadding="7px" cellspacing="1px">
+                        <img src='ph.jpg' height ="170PX" and width ="170Px" align="left">
+                     
+                                <tr><th align="left"><b><FONT COLOR="DarkCyan" SIZE="20px">ASHIK BL EBENEZ</FONT></b></th></tr>
+                                <tr><th align="left">+91 9600456603</th></tr>     
+                                <tr><th align="left">ashikb18@gmail.com</th></tr>
+                                <tr><th align="left">I block S4 Ruby Star city - Perungulathur - Chennai 63</th></tr>
+                                
+                                <a href ="https://www.linkedin.com/in/ashik-bl-0ab648b9/"target="_blank"> <img src='ll.png' height ="46PX" and width ="46Px" align="right"></a>
+                                <a href ="https://wa.me/919600456603" target="_blank" > <img src='wt.png' height ="50PX" and width ="68Px" align="right"></a>
+                                <a href ="mailto:ashikb18@gmail.com" target="_blank" > <img src='mail.png' height ="48PX" and width ="48Px" align="right"></a>
+                        
+                        </table>
+<fieldset name="Profile">
+
+        
+        <legend align="center"><b><font COLOR="DarkCyan"  size="5.5"><i>Profile</i></font></b></legend> 
+        <h4 align ="center">Sr product support & business analyst - with more than three years of experience in progressive roles supporting, implementing, and training freight forwarding ERP software</h4>
+</fieldset>     
+<fieldset>
+        <legend align="center"><b><font COLOR="DarkCyan"  size="5.5"><i>Expertise</i></font></b></legend> 
+
+                <table border="0px"cellpadding="7px" cellspacing="1px">
+                <tr>
+                        <th align="left">Support</th>
+                        <th bgcolor="MediumSeaGreen"><font color="white">1</font></th>
+                        <th bgcolor="MediumSeaGreen"><font color="white">2</font></th>
+                        <th bgcolor="MediumSeaGreen"><font color="white">3</font></th>
+                        <th bgcolor="MediumSeaGreen"><font color="white">4</font></th>
+                        <th bgcolor="MediumSeaGreen"><font color="white">5</font></th>
+                        <th bgcolor="MediumSeaGreen"><font color="white">6</font></th>
+                        <th bgcolor="MediumSeaGreen"><font color="white">7</font></th>
+                        <th bgcolor="MediumSeaGreen"><font color="white">8<font></th>
+                        <th bgcolor="MediumSeaGreen"><font color="white">9</font></th>
+                        <th>10</th>
+
+                </tr>
+                <tr>
+                        <th align="left">Training</th>
+                        <th bgcolor="MediumSeaGreen"><font color="white">1</font></th>
+                        <th bgcolor="MediumSeaGreen"><font color="white">2</font></th>
+                        <th bgcolor="MediumSeaGreen"><font color="white">3</font></th>
+                        <th bgcolor="MediumSeaGreen"><font color="white">4</font></th>
+                        <th bgcolor="MediumSeaGreen"><font color="white">5</font></th>
+                        <th bgcolor="MediumSeaGreen"><font color="white">6</font></th>
+                        <th>7</th>
+                        <th>8</th>
+                        <th>9</th>
+                        <th>10</th>
+                </tr>
+                <tr>
+                        <th align="left">Implementation</th>
+                        <th bgcolor="MediumSeaGreen"><font color="white">1</font></th>
+                        <th bgcolor="MediumSeaGreen"><font color="white">2</font></th>
+                        <th bgcolor="MediumSeaGreen"><font color="white">3</font></th>
+                        <th bgcolor="MediumSeaGreen"><font color="white">4</font></th>
+                        <th>5</th>
+                        <th>6</th>
+                        <th>7</th>
+                        <th>8</th>
+                        <th>9</th>
+                        <th>10</th>
+                </tr>
+                <tr>
+                        <th align="left">Jira</th>
+                        <th bgcolor="MediumSeaGreen"><font color="white">1</font></th>
+                        <th bgcolor="MediumSeaGreen"><font color="white">2</font></th>
+                        <th bgcolor="MediumSeaGreen"><font color="white">3</font></th>
+                        <th bgcolor="MediumSeaGreen"><font color="white">4</font></th>
+                        <th bgcolor="MediumSeaGreen"><font color="white">5</font></th>
+                        <th bgcolor="MediumSeaGreen"><font color="white">6</font></th>
+                        <th bgcolor="MediumSeaGreen"><font color="white">7</font></th>
+                        <th>8</th>
+                        <th>9</th>
+                        <th>10</th>
+                </tr>
+                <tr>
+                        <th align="left">Oracle Pl/SQL</th>
+                        <th bgcolor="MediumSeaGreen"><font color="white">1</font></th>
+                        <th bgcolor="MediumSeaGreen"><font color="white">2</font></th>
+                        <th bgcolor="MediumSeaGreen"><font color="white">3</font></th>
+                        <th>4</th>
+                        <th>5</th>
+                        <th>6</th>
+                        <th>7</th>
+                        <th>8</th>
+                        <th>9</th>
+                        <th>10</th>
+                </tr>
+                <tr>
+                        <th align="left">Excel</th>
+                        <th bgcolor="MediumSeaGreen"><font color="white">1</font></th>
+                        <th bgcolor="MediumSeaGreen"><font color="white">2</font></th>
+                        <th bgcolor="MediumSeaGreen"><font color="white">3</font></th>
+                        <th bgcolor="MediumSeaGreen"><font color="white">4</font></th>
+                        <th bgcolor="MediumSeaGreen"><font color="white">5</font></th>
+                        <th>6</th>
+                        <th>7</th>
+                        <th>8</th>
+                        <th>9</th>
+                        <th>10</th>
+                </tr>
+                <tr>
+                        <th align="left">HTML</th>
+                        <th bgcolor="MediumSeaGreen"><font color="white">1</font></th>
+                        <th bgcolor="MediumSeaGreen"><font color="white">2</font></th>
+                        <th bgcolor="MediumSeaGreen"><font color="white">3</font></th>
+                        <th>4</th>
+                        <th>5</th>
+                        <th>6</th>
+                        <th>7</th>
+                        <th>8</th>
+                        <th>9</th>
+                        <th>10</th>
+                </tr>
+                
+               
+                </table>
+</fieldset>
+
+<fieldset>  
+
+        <legend align="center"><b><font COLOR="DarkCyan" size="5.5"><i>Work experience</i></font></b></legend>         
+        
+<fieldset bgcolor="red">
+        <legend><b><font size="4">Newage Software and Solutions</font></b></legend>
+        <p align ="justify">New Age defines, develops and delivers technology enabled business solutions for the logistics and Freight Forwarding vertical. It has a global footprint with implementation done across over 36 countries in over 100 locations in Middle East, US, UK, Canada and many other countries too. Our product allows integration of a wide variety of functions including  export and import, documentation, customer service, sales, NVOCC, warehousing, removals, finance, and HRMS.</p>
+</fieldset>
+
+<fieldset>
+        <legend><b><font size="4">Roles and Responsibilities</font></b></legend>
+        <p> <ul type="circle">
+        <li>Educating the user on the usage of Freight forwarding process in ERP.</li>
+        <li>Analyzing the existing system and suggesting solution in eFreight Suite.</li>
+        <li>Providing training sessions to end users.</li>
+        <li>Coordinating with the user in terms of new change request.</li>
+        <li>Preparing BRD and coordinating internally with the end user and bridging the gap identified in development process.</li>
+        <li>Working closely via phone, email, live chat with end users to provide immediate solutions.</li>
+        <li>Responsible for testing the updates in the staging environment and provide the bug details to the devlopment team.</li>
+        <li>Got an oppurtunity to lead a team of 15 members (Logistics Backoffice Support) for a duration of 8 months and ensured smooth delivery.</li>
+    </ul>
+    </p>
+
+</fieldset>
+
+<fieldset>
+         <legend><b><font size="4">Dedicated Support Rendered To</font></b></legend>
+    <p>
+        <ul type="square">
+
+        <li>Freight Systems - Global</li>
+        <li>Vanguard logistics - Dubai & India</li>
+        <li>Concord maritime logistics - India</li>
+        <li>Interem - India</li>
+        <li>Interem Relocations - India </li>
+        <li>Newage - Global</li>
+        <li>Green Line Shipping - Bangladesh</li>
+        <li>FSL Shop Easy  DWC LLC - Dubai</li>
+
+    </ul>
+    </p>
+</fieldset>
+<fieldset>
+    <legend><b><font size="4">Achievements & Certifications</font></b></legend>
+    <ul type="circle">
+    <li>Idea tree contest’2021 - Winner</li>
+    <li>Culture Day Competition (I AM FSL) - Runner</li>
+    <li>Completed five Certification related to Freight forwarding.</li>
+
+</fieldset>
+</fieldset> 
+
+<!--<fieldset>
+
+        <legend align="center"><b><font COLOR="DarkCyan" size="5.5">About</font></b></legend>
+        <P> Name &nbsp;&nbsp;   - Ashik BL Ebenez </P>
+        <P> Contact - +91 9600456603 </P>
+        <P> Email &nbsp;&nbsp;&nbsp; - ashikb18@gmail.com </P>
+        <P> Address - I block S4 Ruby Star city - Perungulathur - Chennai 63 </P>
+</fieldset> -->
+
+       
+        <br>
+
+<!--<fieldset>
+        <legend align="right">Social Media</legend>
+        <tt>  
+        <a href ="https://www.linkedin.com/in/ashik-bl-0ab648b9/"target="_blank"> <img src='ll.png' height ="46PX" and width ="46Px" align="right"></a> 
+        <a href ="mailto:ashikb18@gmail.com" target="_blank" > <img src='mail.png' height ="48PX" and width ="48Px" align="right"></a>
+        <a href ="https://wa.me/919600456603" target="_blank" > <img src='wt.png' height ="50PX" and width ="68Px" align="right"></a>
+        </tt> 
+            
+</fieldset> -->
+        
+
+</body>
+</head>
+</html>
